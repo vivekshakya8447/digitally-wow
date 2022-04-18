@@ -5,6 +5,7 @@ import Eye from "../assets/svg/Eye";
 
 import From  from "@Components/searchbar/formdata";
 import Multiselect from "@Components/Multiselect";
+import Other from "@Components/other";
 import Oneselect from "@Components/oneselect";
 const homePage = () => {
   
