@@ -112,7 +112,7 @@ const homePage = () => {
               
                <Multiselect/>
                <Oneselect/>
-               <Other/>
+               {/* <Other/> */}
                   
                
                    
