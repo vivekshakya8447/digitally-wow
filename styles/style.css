@@ -20,9 +20,8 @@ border-radius: 9.72438px;
 }
 
 .login-bg{
-    background: #757F9A !important;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #D7DDE8, #757F9A);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #D7DDE8, #757F9A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
+    background: rgb(25,39,93);
+background: radial-gradient(circle, rgba(25,39,93,1) 16%, rgba(28,35,63,1) 48%);
 }
 .btn-color{
     background: #1F1C2C;  /* fallback for old browsers */

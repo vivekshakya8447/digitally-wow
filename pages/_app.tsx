@@ -1,6 +1,6 @@
 import type { AppProps } from "next/app";
 
-import "../styles/style.css"
+import "../styles/style.css";
 import "../styles/tailwind.css";
 
 
